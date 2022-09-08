@@ -14,7 +14,7 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![WhatsApp Image 2022-09-08 at 1 56 21 PM](https://user-images.githubusercontent.com/89703145/189073943-20ddf660-7ad3-4f73-b835-5172ab7a0a59.jpeg)
 
 ### STEP 1:
 We start by reading the dataset using pandas.
