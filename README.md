@@ -14,7 +14,7 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Neural Network Model
 
-                    ![WhatsApp Image 2022-09-08 at 1 56 21 PM](https://user-images.githubusercontent.com/89703145/189076869-4d040d99-f470-4fba-acff-4b6377ba9932.jpeg)
+![WhatsApp Image 2022-09-08 at 1 56 21 PM](https://user-images.githubusercontent.com/89703145/189076869-4d040d99-f470-4fba-acff-4b6377ba9932.jpeg)
 
 ### STEP 1:
 We start by reading the dataset using pandas.
